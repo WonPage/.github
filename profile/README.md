@@ -1,7 +1,7 @@
 ## Team 한페이지 (WonPage)👋
 - **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
   React Native 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱
-
+  - **Frontend : https://github.com/WonPage/MyongjiCamp-FrontEnd** (React Native, Expo)
 <!--
 **Here are some ideas to get you started:**
 
